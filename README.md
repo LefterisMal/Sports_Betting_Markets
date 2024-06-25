@@ -1,4 +1,6 @@
-#This Projects contains several projects based on football (or soccer) betting, approaching betting in a similar way to the stock market. From the begining of betting exchanges
+# Sports_Betting_Markets
+
+This Projects contains several projects based on football (or soccer) betting, approaching betting in a similar way to the stock market. From the begining of betting exchanges
 betting (when the liquidity is high enough) immitates the stock market deeply, while also estimations can be made for the odds (or price) of an event to happen just like 
 pricing a financial asset.
 
