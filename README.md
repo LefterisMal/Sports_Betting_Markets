@@ -2,7 +2,7 @@
 
 The Project in this folder contains the folowing subjects:
 
-1) Simple_Player_Props_model : An example of creating a sports' model from scratch based on extended actions data throught logistic and linear regressions. The target of the project is to
+1) Simple_Player_Props_model.ipynb : An example of creating a sports' model from scratch based on extended actions data throught logistic and linear regressions. The target of the project is to
    calculate the coefficients of a model for calculating the portion of expected goals of players compared to their team based on their position and their individual stats. The data used contain
    the top 5 european leagues (Premier lEague, La Liga, Serie A, Bundesliga, Ligue 1) for the year 2017-2018.
 
