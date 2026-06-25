@@ -1,25 +1,53 @@
-# Sports_Betting_Markets
+## Main Projects
 
-The main Projects in this folder contains the folowing subjects:
+This folder contains projects related to the following subjects:
 
-1) Sports Betting Market Tools:
-A wide range of sports betting markets are tested through toy models showcasing market information usage, models' evaluation approaches, betting strategies and markets simulations. In more detail the exact sections of this project are:
+### Sports Betting Market Tools
 
-a) Using Betting Markets information: This section shows a model to estimate the ExG values for a game based on the market prices weighted by their liquidity.
-b) Model average ROI estimator: Based on a Bayesian mixture model the ROI of a model is calculated combined with the probability of the model being profitable at all given bets' prices and model's estimation data.
-c) Kelly Criterion Adjustments: Exploring variations and different applications of Kelly Criterion.
-d) Reactive Markets to liquidity: Betting Markets adjustment to liquidity model and manipulation.
+This project explores a wide range of sports betting markets through toy models. The goal is to showcase how market information can be used, how betting models can be evaluated, how betting strategies can be developed, and how market simulations can be performed.
 
+The main sections of this project are:
 
-2) Football Statistical Modeling:
-The target of this project is to create an advanced model with as much of the information can be extracted through football data. The process staring form just using the match results, then creating ExG and xT models by action data and finally combining all the previous models and information for creating an advanced model for football predictions. All the projects included in this folder are:
+1. **Using Betting Market Information**
+   A model for estimating expected goals (xG) values for a match based on market prices, weighted by liquidity.
 
-a) Creating a model based on match result information with many approaches.
-b) Simple ExG model.
-c) Advanced ExG model.
-d) Expected Threat (xT) model.
-e) Creating a model based on teams' and players' ExG information.
-f) Creating an advanced football prediction model.
+2. **Model Average ROI Estimator**
+   A Bayesian mixture model used to estimate the ROI of a betting model, combined with the probability that the model is profitable given betting prices and model estimation data.
+
+3. **Kelly Criterion Adjustments**
+   An exploration of variations and different applications of the Kelly Criterion.
+
+4. **Reactive Markets to Liquidity**
+   A model for analyzing how betting markets adjust to liquidity and potential market manipulation.
+
+---
+
+### Football Statistical Modeling
+
+The goal of this project is to build an advanced football prediction model by extracting as much information as possible from football data.
+
+The process starts with models based only on match results, then moves to expected goals (xG) and expected threat (xT) models using action-level data. Finally, these models and sources of information are combined into a more advanced football prediction framework.
+
+The projects included in this folder are:
+
+1. **Match Result-Based Modeling**
+   Creating models based on match result information using multiple approaches.
+
+2. **Simple xG Model**
+   Building a basic expected goals model.
+
+3. **Advanced xG Model**
+   Developing a more advanced expected goals model using richer football data.
+
+4. **Expected Threat (xT) Model**
+   Creating an expected threat model based on action-level data.
+
+5. **Team and Player xG-Based Modeling**
+   Building models based on teams’ and players’ expected goals information.
+
+6. **Advanced Football Prediction Model**
+   Combining previous models and information sources into a comprehensive football prediction model.
+
 
 
 Simpler small projects:
