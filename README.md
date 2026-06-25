@@ -48,7 +48,7 @@ The projects included in this folder are:
 6. **Advanced Football Prediction Model**
    Combining previous models and information sources into a comprehensive football prediction model.
 
-
+---
 
 Simpler small projects:
 1) Market_Efficiency.ipynb :
