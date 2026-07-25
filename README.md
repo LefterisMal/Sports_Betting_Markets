@@ -42,11 +42,8 @@ The projects included in this folder are:
 4. **Expected Threat (xT) Model**
    Creating an expected threat model based on action-level data.
 
-5. **Team and Player xG-Based Modeling**
-   Building models based on teams’ and players’ expected goals information.
-
-6. **Advanced Football Prediction Model**
-   Combining previous models and information sources into a comprehensive football prediction model.
+5. **Team xG-Based Modeling**
+   Building models based on teams’ expected goals information staring from ExG as one metric and moving to ExG by situation models.
 
 ---
 
